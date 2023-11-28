@@ -1,6 +1,6 @@
 module github.com/RassulYunussov/account
 
-go 1.21.4
+go 1.21
 
 require gotest.tools/v3 v3.5.1
 
