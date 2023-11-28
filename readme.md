@@ -1,6 +1,6 @@
 # Account library
 
-Helps generating accounts using [IBAN] (https://en.wikipedia.org/wiki/International_Bank_Account_Number) approach with checksum
+Helps generating accounts using [IBAN](https://en.wikipedia.org/wiki/International_Bank_Account_Number) approach with checksum
 
 Initial design - 20 alpha-numerical representation:
 
